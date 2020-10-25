@@ -1,7 +1,7 @@
 # surfs_up
 
 ## Project Overview
-While visiting Hawaii, I observed many entrepreneurial opportunities and have decided to live in Oahu full time. I would like to open a surf and shake shop, but I require an investor to help to get this business started. After putting together a business plan, I had reached out to a local investor by the name of W.Avy. However, he would like to see more analysis of the weather patterns in Oahu before proceeding further.
+While visiting Hawaii, I identified multiple potential entrepreneurial opportunities and have decided to live in Oahu full time. I would like to open a surf and shake shop, but I require an investor to help to get this business started. After putting together a business plan, I had reached out to a local investor by the name of W.Avy. However, he would like to see more analysis of the weather patterns in Oahu before proceeding further.
 
 ## Purpose
 Although W.Avy finds our initial business plan useful, he would like more information regarding temperature trends in Oahu before he chooses to invest in the surf shop. He hopes that this business will be sustainable all year around but would like to examine and compare the months of June and December in order to see if there will be a shift in demand. To do so, I have employed Python (Pandas) and SQLAlchemy queries to create a data frame that illustrates a statistical summary of the minimum, maximum, and average temperatures for the respective months. This analysis will provide W.Avy with all the information he requires to make the decision of whether or not to invest.
