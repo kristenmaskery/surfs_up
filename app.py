@@ -52,7 +52,7 @@ def stations():
    stations = list(np.ravel(results))
    return jsonify(stations=stations)
 
-#create monhly temp route
+#create monthly temp route
 def temp_monthly():
    prev_year = dt.date(2017, 8, 23) - dt.timedelta(days=365)
 
