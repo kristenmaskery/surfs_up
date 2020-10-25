@@ -22,7 +22,7 @@ Although W.Avy finds our initial business plan useful, he would like more inform
 ## Summary
 From the analytical evidence provided above by the summary statistics tables, it is believed that the surf shop would continue to be successful all year around as the temperatures are relatively analogous. However, because W.Avy had previously invested in a surf shop that was unsuccessful due to large amounts of precipitation, it is useful to conduct further inquiry regarding the precipitation rates during these months. 
 
-## Additional Queries
+### Additional Queries
 
 The summary statistics of the precipitation data indicate that the month of June receives on average 0.13 mm of rain, and approximately 0.21mm of rain in December. Nonetheless, the June and December statistics reveal that their respective standard deviation signifies minimal variation of precipitation measurements throughout the months. Therefore, the accumulation of rain should not greatly affect surfing conditions. With this additional analysis in mind, I believe W.Avy will be happy to know that the prevailing weather conditions according to data from the past year should not negatively affect business at the surf shop.
 
